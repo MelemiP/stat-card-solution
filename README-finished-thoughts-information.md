@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL: ()
+- Solution URL: (https://www.frontendmentor.io/solutions/responsive-stat-card-with-html-and-css-t0FmOHHKe)
+- Live Site URL: (https://melemip.github.io/stat-card-solution/)
 
 ## My process
 
