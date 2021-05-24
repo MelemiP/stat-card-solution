@@ -30,7 +30,7 @@ br {
 
 
 .image1 { 
-  background: linear-gradient(0deg, rgba(133, 10, 209, 0.5), rgba(133, 10, 209, 0.5)), url(/images/image-header-mobile.jpg) no-repeat center/cover;
+  background: linear-gradient(0deg, rgba(133, 10, 209, 0.5), rgba(133, 10, 209, 0.5)), url(image-header-mobile.jpg) no-repeat center/cover;
   height: 15.625rem; 
   width: 21.187rem; 
   border-radius: 5px 5px 0 0;
@@ -100,7 +100,7 @@ br {
   }
  
   .image2 {  
-    background: linear-gradient(0deg, rgba(133, 10, 209, 0.5), rgba(133, 10, 209, 0.5)), url(/images/image-header-desktop.jpg) no-repeat top/cover;
+    background: linear-gradient(0deg, rgba(133, 10, 209, 0.5), rgba(133, 10, 209, 0.5)), url(image-header-desktop.jpg) no-repeat top/cover;
     height: 31.25rem;
     flex: 0 0 50%; 
     order: 2;
