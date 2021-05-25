@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Screenshot of Finished Desktop and Mobile
 
-![](/app/finished-desktop-screenshot.png)
-![](/app/finished-mobile-screenshot.png)
+![](finished-desktop-screenshot.png)
+![](finished-mobile-screenshot.png)
 
 ### Links
 
@@ -52,7 +52,7 @@ In the future, I'd like to focus more on a mobile-first workflow. Though I used 
 
 ## Author
 
-- Github - [Melemi](https://github.com/MelemiP)
+- Github - [MelemiP](https://github.com/MelemiP)
 - Frontend Mentor - [@MelemiP](https://www.frontendmentor.io/profile/MelemiP)
 - LinkedIn - [Melissa Phillips](https://www.linkedin.com/in/melissa-phillips-119087101/)
 
