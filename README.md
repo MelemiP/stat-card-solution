@@ -53,7 +53,7 @@ In the future, I'd like to focus more on a mobile-first workflow. Though I used 
 ## Author
 
 - Github - [Melemi](https://github.com/MelemiP)
-- Frontend Mentor - [@yMelemiP](https://www.frontendmentor.io/profile/MelemiP)
+- Frontend Mentor - [@MelemiP](https://www.frontendmentor.io/profile/MelemiP)
 - LinkedIn - [Melissa Phillips](https://www.linkedin.com/in/melissa-phillips-119087101/)
 
 
