@@ -4,7 +4,7 @@ html {
   font-family: 'Inter', sans-serif;
 }
 
-.insightsColor {
+.insights-color {
   color: hsl(277, 64%, 61%);
 }
 
@@ -38,7 +38,7 @@ br {
   position: relative; 
   } 
 
-.textSection {
+.text-section {
   background-color:hsl(244, 38%, 16%);
   font-size: 0.9375rem;
   height: 32.81rem;
@@ -60,7 +60,7 @@ br {
   line-height: .5;
 }
 
-.statsWords {
+.stats-words {
   color: hsla(0, 0%, 100%, 0.6); 
 }
 
@@ -106,14 +106,14 @@ br {
     order: 2;
   }
 
-  .textSection { 
+  .text-section { 
     text-align: justify;
     background-color: hsl(244, 38%, 16%);
     font-size: 0.9375rem; 
     width: 43.75rem;
   }
 
-  .textSection > h1 {
+  .text-section > h1 {
     margin: 4.0625rem 0 0 6.25rem; 
     padding: 0;
     color: hsl(0, 0%, 100%); 
@@ -137,7 +137,7 @@ br {
     color: hsl(0, 0%, 100%);
   }
 
-  .statsWords {
+  .stats-words {
     font-size: 0.8125rem;
     color: hsla(0, 0%, 100%, 0.75);
   }
